@@ -69,8 +69,6 @@ Aşağıda modelin eğitim ve test sürecine ait bazı görselleri bulabilirsini
 
 Aşağıda, uygulamanın çalışırken aldığı bir ekran görüntüsü yer almaktadır:
 
-> **Not:** Lütfen `olcum_ekran_goruntusu.png` dosyasını kök dizine ekleyin.
-
 ![Ölçüm Ekran Görüntüsü](olcum_ekran_goruntusu.png)
 
 ## Veri Seti Hakkında
