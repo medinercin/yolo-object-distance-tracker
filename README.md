@@ -20,7 +20,7 @@ distance_calculate/
 │   ├── README.dataset.txt    # Veri seti açıklaması
 │   └── README.roboflow.txt   # Roboflow veri seti detayları
 ├── requirements.txt          # Gerekli Python paketleri
-└── olcum_ekran_goruntusu.png # (Kullanıcıdan bekleniyor)
+
 ```
 
 ## Kurulum
