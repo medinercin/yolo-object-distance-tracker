@@ -1,6 +1,6 @@
 # YOLO Object Distance Tracker
 
-Bu proje, nesne tespiti ve mesafe ölçümü için YOLOv8 tabanlı bir derin öğrenme modelini kullanır. Özellikle "silgi" ve "kalem" nesneleri için gerçek zamanlı olarak mesafe tahmini yapar. Model, özel olarak toplanmış ve Roboflow üzerinden etiketlenmiş bir veri setiyle eğitilmiştir.
+Bu proje, nesne tespiti ve mesafe ölçümü için YOLOv11 tabanlı bir derin öğrenme modelini kullanır. Özellikle "silgi" ve "kalem" nesneleri için gerçek zamanlı olarak mesafe tahmini yapar. Model, özel olarak toplanmış ve Roboflow üzerinden etiketlenmiş bir veri setiyle eğitilmiştir.
 
 ## Proje Yapısı
 
